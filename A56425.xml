@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments petition to the Divell to the most high and mighty emperour of darkenesse, Don sel de Lucifer, King of Acheron, Styx &amp; Plegeton, Duke of Tartary, Marquesse of Cocitus, and lord paramount of Limbo.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56425</idno>
+            <idno type="STC">Wing P520</idno>
+            <idno type="STC">ESTC R33019</idno>
+            <idno type="EEBO-CITATION">12841529</idno>
+            <idno type="OCLC">ocm 12841529</idno>
+            <idno type="VID">94392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments petition to the Divell to the most high and mighty emperour of darkenesse, Don sel de Lucifer, King of Acheron, Styx &amp; Plegeton, Duke of Tartary, Marquesse of Cocitus, and lord paramount of Limbo.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: pages print showthrough with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94392:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 139 -->
+            <pb facs="tcp:94392:1"/>
+            <!-- PDF PAGE 139 -->
+            <p>THE PARLIAMENTS PETITION to the Divell.</p>
+            <p>To the moſt high and mighty Empe<g ref="char:EOLhyphen"/>rour of Darkeneſſe, <hi>Don ſel de Lucifer,</hi> King of <hi>Acheron, Styx</hi> &amp; <hi>Plegaton,</hi> Duke of <hi>Tartary,</hi> Marqueſſe of <hi>Cocitus,</hi> and Lord Paramount of LIMBO.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94392:2"/>
+            <!-- PDF PAGE 140 -->
+            <pb n="3" facs="tcp:94392:2"/>
+            <!-- PDF PAGE 140 -->
+            <head>The Parliaments Petition to the Devill.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Heweth, that wee your (Infernall fatherhoods) moſt obedient ſonnes and ſervants, in the two Houſes of Parliament of <hi>England,</hi> doe heere moſt humbly preſent our grievances, and lay them proſtrate before the cloven feet of your graceleſſe Majeſty; it is not un<g ref="char:EOLhyphen"/>knowne, that wee (to ſerve you) have layd aſide all ſervice of God, all Loyalty towards our King, and all Chriſtian love and charity towards men, wee have robbed God of as much of his glory as wee poſſibly could; and becauſe we could not impriſon him, wee have either impriſoned, ruined, or murthered all his ſervants ſpirituall and temporall; and not any honeſt man, Chriſtian or true Subject, that dared to oppoſe ſuch direction and orders as wee have from time to time from your ſuperpotent commands received (which wee have duti<g ref="char:EOLhyphen"/>fully obeyed) and wee have inflicted the moſt rigid and inhu<g ref="char:EOLhyphen"/>mane puniſhments upon all refractory and inveterate Malig<g ref="char:EOLhyphen"/>nants as could be invented.</p>
+            <p>Thus wee proſpered and flouriſhed, under your graceleſſe defence and protection, wee have wallowed more then 7 yeares in all voluptuous and luxurious ſenſuallity, wee have allowed and maintained moſt execrable and horrible blaſphemies, all manner of Sects and Hereſies, wee have given large rewards to Traytours and Villaines, wee have caſt downe all Law, learning and knowledge, and ſet up and magnified all barbarous impu<g ref="char:EOLhyphen"/>dence and ignorance, as is manifeſted in both our famous and learned Univerſities.</p>
+            <p>The Son of God (becauſe he is the greateſt and moſt mighty deſtroyer and hater of your power and eminency, the maine e<g ref="char:EOLhyphen"/>nemy of our deſignes and practiſes) wee have uſed all our en<g ref="char:EOLhyphen"/>deavours to roote out all memory of him; wee have made his
+<pb n="4" facs="tcp:94392:3"/>
+               <!-- PDF PAGE 141 -->houſes, ſtables, brothells, and dens for worſe Inhabitants then ever lodged in Newgate; wee have (for the advancement of your Cimerian Kingdome) forbiden all Chriſtian reverence to his name, that the people doe expreſſe or ſhew no more adora<g ref="char:EOLhyphen"/>tion or reſpect when <hi>Jeſus</hi> is mentioned, then they doe when your Hellhood is nominated, or our elder brother <hi>Judas Iſcari<g ref="char:EOLhyphen"/>ot</hi> remembred.</p>
+            <p>We commanded his owne prayer (which himſelfe comman<g ref="char:EOLhyphen"/>ded us to uſe and pray) to be ſuppreſt, and commanded long prayers and babling repetitions to be frequently uſed, which he plainely did forbid.</p>
+            <p>Wee have (as much as in us lyeth) worſhipped all the memo<g ref="char:EOLhyphen"/>ries of Saints out of Churches and Kallenders, and all the dayes which were wont to be called Holy-dayes, wee have changed into wicked ones, only wee have ordained that every laſt Wed<g ref="char:EOLhyphen"/>neſday in every Moneth ſhall be kept as a holy Faſt-day, in ho<g ref="char:EOLhyphen"/>nourable memory of Saint <hi>Rebell,</hi> and Saint <hi>Hypocrite.</hi> And many times, when your malevolent mighty aſſiſtance hath gi<g ref="char:EOLhyphen"/>ven us any notable glorious victories againſt our lawfull Sove<g ref="char:EOLhyphen"/>raigne, and his Loyall Subjects, then wee have cauſed publique Thankſgiving-dayes, which wee have daubed over with praiſes to God, when our intentions were to thanke your execrable Majeſty, for your accurſed ayd in the murthering of our brethe<g ref="char:EOLhyphen"/>ren; and if wee ſhould publiquely have given thankes to you (in your owne name) the people would have been mad at us; therefore wee gave God thankes with our lips, but our hearty thankes were meant to you, for whom they were due; for you alone helped us, and at thoſe exerciſes wee had not any Preacher, but he truely proved to be the Legitimate ſon of thun<g ref="char:EOLhyphen"/>der, who had ſuch care in avoyding ill examples, that they ne<g ref="char:EOLhyphen"/>ver prayed for the King, or ſcarce mention him (except to ſlan<g ref="char:EOLhyphen"/>der or revile him) for theſe purpoſes, wee had and have a <hi>Mar<g ref="char:EOLhyphen"/>ſhall,</hi> a <hi>Cornelius,</hi> an <hi>Adoniram,</hi> (or a Nodi-Ram,) a <hi>Peters,</hi> a <hi>Dell;</hi> a <hi>Temple,</hi> a <hi>Staunton,</hi> a <hi>Nye,</hi> a <hi>Cawdry,</hi> and 500 ſuch, <hi>now and anon too,</hi> at all times, theſe blew the bellows of Sedition, theſe filled England with blood, and theſe have ſent ſeduced and unprepared ſoules to your Kingdome of darkeneſſe by thouſands.</p>
+            <pb n="5" facs="tcp:94392:3"/>
+            <!-- PDF PAGE 141 -->
+            <p>Indeed, when wee firſt entred into the ſervice of your grace<g ref="char:EOLhyphen"/>leſſe Excellency, wee had ſtrange oppoſitions in the Church: There was not a Preacher who was not your deadly enemy; they made no ſcruple to call you <hi>the Father of lyes;</hi> that you were as a <hi>roaring Lyon,</hi> continually <hi>ſeeking whom to devoure.</hi> That you were <hi>a murtherer from the beginning,</hi> with all the in<g ref="char:EOLhyphen"/>vective words of defamation to your name and honour, as could be expreſt. Thoſe were Biſhops, Doctours, and other fellows, who made it their chiefe trade of life; nothing elſe but to draw the affections of people from you; they talked (in their Pulpits) of faith, hopt, charity, obedience, Loyalty, and ſuch things as the practice of them would have undone us all, and we are ſure they are all repugnant and malignant to your glorious govern<g ref="char:EOLhyphen"/>ment, and if wee had not baniſhed and ſuppreſt them, and the profeſſors of them, wee had beene ruined long ſince, and your black Territories had not beene ſo fully furniſhed with ſeduced ſoules.</p>
+            <p>Concerning the Lawes, and knowne eſtabliſhed Statutes of the Kingdome, wee have layd them by as uſeleſſe, and altoge<g ref="char:EOLhyphen"/>ther repugnant to us and our glorious deſignes and proceedings; for wee know that if ever the Lawes doe come to be in force a<g ref="char:EOLhyphen"/>gaine, what will become of us? The execution of the Lawes, wee doe know will execute us, and then our lives and eſtates will be all forfeited and loſt, and the King be made more rich and glorious then any of his Predeceſſors, as wee promiſed him once or twice: as concerning thoſe Shires, Counties, Cities, Townes, and Corporations, which put us in truſt to redreſſe and eaſe their grievances, it is knowne that the King himſelfe eaſed them of all the old ones; but wee have layd 100 times more new ones upon them, and wee humbly thanke your damnable aſſiſtance, for that you have ſo blinded and benumed them, that many of them doe not feele the weight of them; and whereas wee were elected and choſen by the Countrey, as Proctors, A<g ref="char:EOLhyphen"/>turneyes, or Advocates, and (in a manner ſervants,) to doe our beſt endeavours for the ſervices, profits, and utillities of the Church and Kingdome in generall and particular: But for your deare and damnable ſake, wee have broken all the truſts
+<pb n="6" facs="tcp:94392:4"/>
+               <!-- PDF PAGE 142 -->which wee were entruſted with, wee have made our ſelves our Maſters Maſters (with the helpe of their owne money and armes) and wee have done the worke ſo throughly, that your Devillſhip could never have done it halfe ſo well your ſelfe, and in ſtead of enriching the Kingdome, wee have made our ſelves rich with the ſpoiles and ruines thereof.</p>
+            <p>Concerning the King, wee have playd our parts ſufficiently with him, we have handled him to ſome tune, we have courſed him like a Partridge over the Mountaines, we have robbed and deveſted him of all Royall dignities, and deptived him of all Regall Revenues and Poſſeſſions, inſomuch, as wee have not left him a houſe of his owne to put his head in, except a Jayle, where wee have lodged him ſafe and ſure; yet ſtill wee put the people in dillatory hopes of a Perſonall Treaty to compoſe all differences (which wee never meane to grant) for wee never meane to have either a King or a Treaty, no more then wee meane to be hanged, and thats a full poynt.</p>
+            <p>Thus we have (like diſobedient ſons and ſervants) obeyed all your Majeſties miſchievous commands accordingly, and if any thing hath diſaſtrouſly hapned well to the King or people, it hath been much againſt our wills, (for it is not with our love or leave, that the King or any friend of his ſhould live and proſper.</p>
+            <p>Thus, <hi>(moſt mighty Prince of the Aire who hath ruled in us your dutifull children of diſobedience)</hi> we have related ſome parts of the ſervices which we have done (by your inſtigations) for your honour, and the encreaſing of Inhabitants in your dam<g ref="char:EOLhyphen"/>nable Kingdomes. Now (under favour of your magnificent Sultanſhip) we your Petitioners are humbly bold to acquaint your high and deepe unfathomed wiſedome of our grievances which do oppreſſe and over-preſſe us, and every day new mul<g ref="char:EOLhyphen"/>titudes of miſeries are heaped upon us for your ſake, and for the true ſervice we have done you; ſo that now if you do not ſpeedily beſtir your ſelfe, in extending your beſt aſſiſtance ei<g ref="char:EOLhyphen"/>ther by force or fraud, power or policy, to free us from the inevitable dangers which threaten our deſtruction, it is feared greatly by us, that God and the King will get the upper hand over us, and then we are all undone.</p>
+            <pb n="7" facs="tcp:94392:4"/>
+            <!-- PDF PAGE 142 -->
+            <p>Firſt, whereas formerly the name and perſon of a Parliament man was in honourable and Reverend eſtemation, the caſe is ſo altred now, that no man lookes upon us but with an abhorring eye of ſcorne and deteſtation, as if we were the plagues of the people, and the infectious deſtroying Peſtilence of the King<g ref="char:EOLhyphen"/>dome, whereby we ſeeme to be the oldeſt men alive, for we have out-lived all our friends, the moſt part do hate us deadly, and the twentieth man or woman doth not love us, but with a flaviſh outſide love, from the teeth outwards; we have loſt their hearts (though we have got their money) ſo that there are few or none but do rejoyce at our troubles, and earneſtly de<g ref="char:EOLhyphen"/>ſire our deſtruction.</p>
+            <p>Secondly, we humbly beſeech your impious Hellhood to take into your ſerious conſideration the Revolt of the Navy Royall, with the loſſe of ſo many ſtout and skillfull Sea-men, who are all unanimouſly bent for the Kings ſervice under the Prince of <hi>Wales,</hi> ſo that we are blockt up by Sea that we cannot run a<g ref="char:EOLhyphen"/>way that way, nor can we ſafely ſtay here for feare of hanging, nor dare we to go home to our Countreys, Counties and places who have entruſted us, for we doubt the wronged people will cut our throates, or knock out our braines; ſo that we are in the caſe of <hi>Coles</hi> dog, we dare neither go to Church or ſtay at home.</p>
+            <p>We confeſſe we have gotten great ſummes of moneys, and large Eſtates by your ſervice; but ſuch wealth (being raviſhed from the Church, from the King, and our fellow ſubjects) hath ſo much canker-eating curſed Ruſt about it, that all our joy in it is torment of conſcience, and our further torment is that we doubt God will not, and we know you cannot give us any eaſe or hope of comfort.</p>
+            <p>Your infernall knowledge knowes that though God made us men, yet you were ungraciouſly pleaſed to make us Rebels and Traytors, in which point we are your creatures; deſtroy not therefore the works of your owne hands, deale not with us as you uſe to deale with Witches, (who when they have done you all the ſervice they can) at laſt you kindly bring them to the ſtake or the Gallows, and there leave them.</p>
+            <pb n="8" facs="tcp:94392:5"/>
+            <!-- PDF PAGE 143 -->
+            <p>Therefore as you have began the worke, which hath (by your protection) flouriſhed till now; ſo now we humbly be<g ref="char:EOLhyphen"/>ſeech you not to let the Cauſe fall; Raiſe up your forces, Rouze up your ſpirits, Raiſe and command from all your Teritories, of <hi>Avernus, Dis, Tophet, Cocitus, Limbo, Barathrum, Ere<g ref="char:EOLhyphen"/>bus, Gehenna, Acheron, Stix, Phlegeton, Tartaria;</hi> from theſe large Provinces of your mighty Empire, we deſire to raiſe another Army of ſuch ſaints as we have before Colcheſter, that by your impious forces, we may bee protected and ever victori<g ref="char:EOLhyphen"/>ous. Command all your <hi>Demons,</hi> and <hi>Cacodemons, Devills,</hi> and <hi>Demoniacks, furies, Elves, Fairies Ghoſts, Gobblins, Wiz<g ref="char:EOLhyphen"/>zards, Witches Sorcerers, Magitians, figure-Flingers, Satires, Serpents, Nightmares, Incubuſſes,</hi> and <hi>Succubuſſes</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſend a<g ref="char:EOLhyphen"/>mongſt us the ſupporting ſpirits of <hi>Caine,</hi> of <hi>Cham,</hi> of <hi>Cho<g ref="char:EOLhyphen"/>rah, Dathan,</hi> and <hi>Abiram,</hi> of <hi>Achitophel,</hi> and ambitious <hi>Ab<g ref="char:EOLhyphen"/>ſolon,</hi> of <hi>Nimrod, Nero, Shimei, Rabſheka,</hi> and <hi>Iſcariot,</hi> of <hi>Pharoh, Herod, Pilate, Phalaris, Catiline, Mashevill, Ravil<g ref="char:EOLhyphen"/>liac,</hi> and our Brother <hi>Pim.</hi>
+            </p>
+            <p>Thus have we declared part of our ſervices to, and our ſuf<g ref="char:EOLhyphen"/>frings for your Impious Majeſty; for our further Terror, the <hi>Scot</hi> hath vowed to pay us ſcot and lot, and to that end are comming upon us like an impetuous ſtorme and Tempeſt; we humbly beſeech you not to be tardy with your beſt Ayd and aſſiſtance; if you can but ſow the ſeed of diviſion and diſunion amongſt the Kings parties and the Scottiſh Armies, to make them mutiny, it would be your Maſter piece; alſo we hum<g ref="char:EOLhyphen"/>bly pray you to ſend the Cittizens of London the ſpirit of per<g ref="char:EOLhyphen"/>ſwaſion to ſend us more money, and then all may be well of our ſide once more.</p>
+            <p>Thus leaving our ſelv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and eminent dangers to your grave Diabolicale conſiderations, we leave your infernall Majeſty in the full poſſeſſion of everlaſting Damnation, and maledicti<g ref="char:EOLhyphen"/>on eternall.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94392:5"/>
+            <!-- PDF PAGE 143 -->
+            <pb facs="tcp:94392:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 144 -->
+            <pb facs="tcp:94392:6"/>
+            <!-- PDF PAGE 144 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
